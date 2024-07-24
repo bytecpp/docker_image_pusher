@@ -8,4 +8,24 @@
 # -- 拉取镜像列表
 
 # rabbitmq-3.13
-rabbitmq:3.13-management
+# rabbitmq:3.13-management
+
+# jdk 
+openjdk:8
+
+# mysql
+mysql:5.7
+mysql:8.0
+
+# nginx
+nginx:1.21.1
+
+# redis
+redis:6.0.8
+redis:7.0.5
+
+# seata
+seataio/seata-server:1.4.2
+
+# xxl-job
+xuxueli/xxl-job-admin:2.3.0
