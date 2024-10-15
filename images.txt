@@ -11,21 +11,25 @@
 # rabbitmq:3.13-management
 
 # jdk 
-openjdk:8
+#openjdk:8
 
 # mysql
-mysql:5.7
-mysql:8.0
+#mysql:5.7
+#mysql:8.0
 
 # nginx
-nginx:1.21.1
+#nginx:1.21.1
 
 # redis
-redis:6.0.8
-redis:7.0.5
+#redis:6.0.8
+#redis:7.0.5
 
 # seata
-seataio/seata-server:1.4.2
+# seataio/seata-server:1.4.2
+seataio/seata-server:2.0.0
+
+# nacos
+nacos/nacos-server:v2.3.2
 
 # xxl-job
-xuxueli/xxl-job-admin:2.3.0
+# xuxueli/xxl-job-admin:2.3.0
