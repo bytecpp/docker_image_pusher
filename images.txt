@@ -26,10 +26,13 @@
 
 # seata
 # seataio/seata-server:1.4.2
-seataio/seata-server:2.0.0
+# seataio/seata-server:2.0.0
 
 # nacos
-nacos/nacos-server:v2.3.2
+# nacos/nacos-server:v2.3.2
 
 # xxl-job
 # xuxueli/xxl-job-admin:2.3.0
+
+# centos
+centos:centos7.9.2009
