@@ -39,4 +39,5 @@
 #centos:centos7.9.2009
 
 # logstash
-docker.elastic.co/logstash/logstash:8.15.3
+# docker.elastic.co/logstash/logstash:8.15.3
+logstash:8.1.3
