@@ -27,6 +27,7 @@
 # seata
 # seataio/seata-server:1.4.2
 # seataio/seata-server:2.0.0
+seataio/seata-server:1.5.2
 
 # nacos
 # nacos/nacos-server:v2.3.2
