@@ -16,7 +16,7 @@
 # mysql
 #mysql:5.7
 #mysql:8.0
-mysql:8.0.32
+#mysql:8.0.32
 
 # nginx
 #nginx:1.21.1
@@ -47,3 +47,6 @@ mysql:8.0.32
 
 # plumelog
 # ylyue/plumelog:v3.5.3
+
+# elasticsearch
+elasticsearch:7.14.1
