@@ -49,4 +49,7 @@
 # ylyue/plumelog:v3.5.3
 
 # elasticsearch
-elasticsearch:7.14.1
+# elasticsearch:7.14.1
+
+# ollama/ollama:0.5.1
+ollama/ollama:0.5.1
