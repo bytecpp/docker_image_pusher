@@ -52,4 +52,7 @@
 # elasticsearch:7.14.1
 
 # ollama/ollama:0.5.1
-ollama/ollama:0.5.1
+# ollama/ollama:0.5.1
+
+# node
+node:18.19.1-slim
