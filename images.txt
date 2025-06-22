@@ -55,4 +55,7 @@
 # ollama/ollama:0.5.1
 
 # node
-node:18.19.1-slim
+# node:18.19.1-slim
+
+#jenkins
+jenkins/jenkins:lts
